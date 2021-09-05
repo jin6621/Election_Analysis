@@ -1,6 +1,7 @@
-#Add our deependencies.
-import csv
-import os
+#Add our dependencies
+import os     #os.path.join to locate path
+import csv    #csv.reader to initate reading data
+
 
 #Assign a variable to load a file from a path
 file_to_load = os.path.join("Resources", "election_results.csv")
@@ -75,7 +76,7 @@ with open(file_to_save, "w") as txt_file:
         votes = candidates_votes[candidate_name]
         
         #3. Calculate the percentage of votes
-        vote_perentage = (votes/total_votes) * 100
+        vote_perentage = float(votes/float(total_votes)) * 100
 
         #4. Print the candidate name and percentage of votes.
         candidate_results = (
