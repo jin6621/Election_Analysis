@@ -199,23 +199,3 @@ In the event where election contains larger number of votes, the script is capab
 	
 	    # Save the winning candidate's name to the text file
 	    txt_file.write(winning_candidate_summary)
-	
-
-
-
-
-
-
-
-
--
-g
---
-gg
-
----
-* bullet 1
-* Bulet 
-  * trying
-* [nihao](http:testing)
-* 
