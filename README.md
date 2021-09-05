@@ -27,7 +27,7 @@ The purpose of this analysis is to perform a fast and intellectual program that 
   * Raymon Anthony Doane: <u>3.1%</u> (<u>11,606</u> votes)
 * Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
   * Winner: <u>Diana DeGette</u>
-  * Winning Vote Count: <u>272,892</u>
+  * Winning Vote Count: <u> 272,892 </u>
   * Winning Percentage: <u>73.8%</u> 
 
  
